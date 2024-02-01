@@ -1,0 +1,8 @@
+skaven
+norsca
+brettonia
+tyranids
+necrons
+tau
+chaos
+dwarves
